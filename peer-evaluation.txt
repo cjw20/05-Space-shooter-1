@@ -1,0 +1,38 @@
+Name:Charlie White
+Date:10/19
+Project: Space Shooter
+Peer's repository: https://github.com/jermaldo/05-Space-Shooter.git
+
+
+
+What is something you learned by reviewing your peer's project?
+I learned how to rotate a sprite using player input.
+ 
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+
+ I liked how the game tracked multiple things in the lower left corner.
+
+What suggestions would you have for your peer to improve his/her code?
+You could make it so the meteors bounce of the edges of the window so that they do not disapear before the player can shoot them.
+ 
+
+What could have been clearer or better commented?
+There are almost no comments explaining how the code works.
+ 
+
+Was there anything in the code that was confusing to you? If so, what?
+
+ The kill_asteroid function did not make sense to me. I am unsure of what it actually does.
+
+Does the repository contain an appropriate LICENSE?
+Yes
+ 
+
+What is something he/she could add to the README.md to make it more descriptive?
+Instructions on how to play the game would be useful.
+ 
+
+Pay a compliment to your peer based on the quality of his/her code.
+
+I like how you implemented controls for the ship.
